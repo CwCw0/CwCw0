@@ -3,6 +3,9 @@
 Hi, I’m Dee! I'm a aspiring software developer working on learning new tech to eventually change the world with the power of tech. I am always and still learning how to Tech :P
 I was previously a music teacher, wanting to bring people together with music and help in anyways. I wish to do the same but now with Tech.
 
+Current website (Update in progress) 
+https://cwwebfolio.netlify.app/
+
 I’m an aspiring frontend developer with some backend knowledge, constantly doing my best to learn.
 
 **What I do**
